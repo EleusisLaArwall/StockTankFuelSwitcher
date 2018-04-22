@@ -1,12 +1,12 @@
 # StockTankFuelSwitcher mod for Kerbal Space Program
 MM and PM scripts to patch stock tanks with fuel-switchers.
-CC-BY-SA 4.0
+CC-BY-SA 4.0 International 
 By Eleusis La Arwall
 
 ### What is STFS?
 STFS allows users to add fuel-switcher setups to the stock LFO tanks, configure them and also choose which fuel-switcher mod handles the task.
 
-###What are the dependencies?
+### What are the dependencies?
 ModuleManager and PatchManager are hard-dependency and the mod will not work without them.
 At least one Resource Switcher mod is also required. Currently InterstellarFuelSwitch (IFS), Firespitter (FS) and B9PartSwitch (B9PS) are supported.
 Depending on the resource-setups you want to use, you may need CommunityResourcePack.
