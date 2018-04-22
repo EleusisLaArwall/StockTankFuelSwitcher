@@ -1,6 +1,6 @@
 # StockTankFuelSwitcher mod for Kerbal Space Program
 MM and PM scripts to patch stock tanks with fuel-switchers.
-CC-BY-SA 4.0 International 
+CC-BY-SA 4.0 International. 
 By Eleusis La Arwall
 
 ### What is STFS?
@@ -43,14 +43,14 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ### Changelog:
 2018.04.22 - Initial release of 0.0.1 alpha
-	- support for IFS, FS and B9PS
-	- support for all stock LFO tanks
+ - support for IFS, FS and B9PS
+ - support for all stock LFO tanks
 
 ### Thanks to
-sarbian for ModuleManager
-linuxgurugamer for PatchManager
-FreeThinker for InterstellarFuelSwitch
-blowfish for B9PartSwitch
-Snjo & RoverDude for Firespitter
-RoverDude for Community Resource Pack
-NecroBones for FuelTanksPlus
+- sarbian for ModuleManager
+- linuxgurugamer for PatchManager
+- FreeThinker for InterstellarFuelSwitch
+- blowfish for B9PartSwitch
+- Snjo & RoverDude for Firespitter
+- RoverDude for Community Resource Pack
+- NecroBones for FuelTanksPlus
