@@ -42,9 +42,9 @@ CC-BY-SA 4.0 International
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ### Changelog:
-- ##### 2018.04.22 - Initial release of 0.0.1 alpha
- - support for IFS, FS and B9PS
- - support for all stock LFO tanks
+- #### 2018.04.22 - Initial release of 0.0.1 alpha
+  - support for IFS, FS and B9PS
+  - support for all stock LFO tanks
 
 ### Thanks to
 - sarbian for ModuleManager
