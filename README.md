@@ -3,7 +3,7 @@ MM and PM scripts to patch stock tanks with fuel-switchers.
 CC-BY-SA 4.0
 By Eleusis La Arwall
 
-###What is STFS?
+###What is STFS?###
 STFS allows users to add fuel-switcher setups to the stock LFO tanks, configure them and also choose which fuel-switcher mod handles the task.
 
 ###What are the dependencies?
