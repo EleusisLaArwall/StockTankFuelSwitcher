@@ -26,7 +26,7 @@ Aggressive mode adds a 'dummy' fuel-switcher in the :FIRST section of MM-patchin
 ### How is STFS balanced?
 That is the tricky part, which is mostly WIP currently:
  - Each setup uses the same volume for resource-storage. The Resource-Storage-Volume (RSV) is calculated from the amount of stored LiquidFuel and Oxidizer on each part.
- - Each stock tanks cost is reduced to its dry-cost (KSP default cost include resource-cost)
+ - Cost of each stock LFO tank is reduced to its dry-cost (KSP default cost include resource-cost)
  - Each setup uses the default tank-mass. The results are rather bad fuel2mass ratios on some setups. I'm open for suggestions!
 
 ### Notes:
